@@ -1,4 +1,4 @@
-# KodeCampEcommerceNode
+
 # E-commerce API
 
 ## Overview
