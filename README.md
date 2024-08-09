@@ -35,7 +35,6 @@ This project is a simple E-commerce API built with Node.js and Express. It inclu
 ## Running Tests
 To run the tests for both admin and user routes, use the following commands:
 
-## Admin test
 ```bash
 npm run testUserProduct
 npm run testAuthProduct
